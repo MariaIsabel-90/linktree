@@ -1,0 +1,53 @@
+* {
+    background-color: #a67ca5;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+.mini-bio {
+    margin-top: 60px;
+    text-align: center;
+    color: #000000;
+}
+
+.foto {
+    width: 300px;
+    height: auto;
+}
+
+
+.mini-bio h1{
+    width: 280px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.mini-bio p{
+    width: 220px;
+    margin-bottom: 50px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.redes-sociais{
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.botao {
+    color: #323a30;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 16px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: beige;
+    width: 300px;
+    margin: 10px;
+    font-size: 15px;
+}
