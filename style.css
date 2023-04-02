@@ -1,5 +1,5 @@
 * {
-    background-color: #af9293;
+    background-color: #9dbdd7;
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;
 }
@@ -41,13 +41,13 @@ a {
 }
 
 .botao {
-    color: #323a30;
+    color: #000000;
     border-radius: 10px;
     cursor: pointer;
     padding: 16px 45px;
     text-align: center;
     text-transform: uppercase;
-    background-color: beige;
+    background-color: #ccc2b7;
     width: 300px;
     margin: 10px;
     font-size: 15px;
