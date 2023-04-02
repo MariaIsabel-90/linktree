@@ -1,5 +1,5 @@
 * {
-    background-color: #a67ca5;
+    background-color: #af9293;
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;
 }
@@ -13,6 +13,7 @@
 .foto {
     width: 300px;
     height: auto;
+    border-radius: 50%;
 }
 
 
